@@ -1,1 +1,24 @@
-
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "test article update",
+      "description": "testing update"
+    },
+    {
+      "title": "Article Nuxt (new)",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa officiis quae omnis quas impedit debitis! Quam pariatur est quae facere vel? Fugit dicta vero quod quo corrupti? Quam, earum! Ratione.",
+      "id": 2
+    },
+    {
+      "title": "PWA Is Awesome",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum ex similique consectetur sunt molestiae, voluptatem ad reprehenderit excepturi quibusdam recusandae vero aliquid distinctio omnis natus, quae animi odit mollitia? Dolorum!",
+      "id": 3
+    },
+    {
+      "title": "AWS Is Awesome",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum ex similique consectetur sunt molestiae, voluptatem ad reprehenderit excepturi quibusdam recusandae vero aliquid distinctio omnis natus, quae animi odit mollitia? Dolorum!",
+      "id": 4
+    }
+  ]
+}
